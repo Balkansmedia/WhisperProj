@@ -1,6 +1,6 @@
-# WhisperDesktop na Bosanskom
+# WhisperDesktop na Bosanskom jeziku 
 
-Ovo je modifikovana verzija projekta WhisperDesktop, prevedena i prilagođena za potrebe novinara [Radio Televizije Novi Pazar](https://rtvnp.rs). Zahvaljujemo se originalnom autoru, Const-me, na izvrsnom radu.
+Ovo je modifikovana verzija projekta WhisperDesktop, prevedena i prilagođena za potrebe novinara [Radio Televizije Novi Pazar](https://rtvnp.rs) u okviru Media Innovation Laba USAID-ovog BMAP FORWARD projekta. Zahvaljujemo se originalnom autoru, Const-me, na izvrsnom radu.
 
 ## Namjena Projekta
 
